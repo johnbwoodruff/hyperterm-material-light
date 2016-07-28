@@ -14,6 +14,10 @@ plugins: [`hyperterm-material-light`]
 
 Save the file and you should see the theme be applied.
 
+## Dark Theme
+
+Prefer a dark theme? Check out [Hyperterm Material Dark](https://www.npmjs.com/package/hyperterm-material-dark)!
+
 ## License
 
 This plugin is released under the [MIT License](./LICENSE).
