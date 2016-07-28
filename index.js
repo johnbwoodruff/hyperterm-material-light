@@ -3,7 +3,7 @@ exports.decorateConfig = (config) => {
         foregroundColor: 'rgba(0,0,0,.87)',
         backgroundColor: '#FAFAFA',
         borderColor: '#E0E0E0',
-        cursorColor: 'rgba(244, 67, 54, .8)',
+        cursorColor: 'rgba(3, 169, 244, .8)',
         colors: [
             '#000000',  // Black
             '#D32F2F',  // Red
@@ -45,7 +45,7 @@ exports.decorateConfig = (config) => {
                 transition:none !important;
             }
             .tab_active::before {
-                border-bottom: 2px solid #F44336;
+                border-bottom: 2px solid #03A9F4;
             }
             .tabs_title {
                 color:rgba(0,0,0,.87);
