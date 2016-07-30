@@ -1,5 +1,7 @@
 # Hyperterm Material Light
 
+[![npm](https://img.shields.io/npm/v/hyperterm-material-light.svg?maxAge=2592000)]() [![npm](https://img.shields.io/npm/dt/hyperterm-material-light.svg?maxAge=2592000)]()
+
 A material design based light theme for [Hyperterm](https://hyperterm.org/).
 
 ![Hyperterm Material Light](./images/hyperterm-material-light.png)
