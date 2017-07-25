@@ -2,6 +2,10 @@
 
 [![npm](https://img.shields.io/npm/v/hyperterm-material-light.svg?maxAge=2592000)]() [![npm](https://img.shields.io/npm/dt/hyperterm-material-light.svg?maxAge=2592000)]()
 
+**UNSUPPORTED: MAY NOT WORK PROPERLY**
+
+This package is no longer supported, so it is not guaranteed to work properly or at all. For a supported package, check out [Hyperterm Material Dark](https://www.npmjs.com/package/hyperterm-material-dark).
+
 A material design based light theme for [Hyperterm](https://hyperterm.org/).
 
 ![Hyperterm Material Light](./images/hyperterm-material-light.png)
